@@ -11,6 +11,7 @@
   	<module>feign-demo</module>
   	<module>hystrix-dashborad</module>
   	<module>turbine-demo</module>
+  	<module>config-server</module>
   </modules>
    <!-- 使用最新的spring-boot版本 -->
   <parent>
